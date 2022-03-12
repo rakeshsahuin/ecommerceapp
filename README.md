@@ -2,8 +2,8 @@
 
 ## 👩‍💻 Technologies Used 
 + Angular 13
-+ .Net Core 5
-+ Mongo DB
++ Angular material
++ md Bootstrap
 
 ## ✨ Features
 
